@@ -8,6 +8,7 @@ https://chinmayi98.github.io/merge-conflict/.
 
 ## CITED PRESENTATION
 
+[PPT](MergeConflicts.pdf)
 
 ## VIDEO 
 [YOUTUBE](https://www.youtube.com/watch?v=AMzIPsp5dGg)
