@@ -1,7 +1,10 @@
 # merge-conflict
 
-## Repository URL
+## REPOSITORY URL
 https://chinmayi98.github.io/merge-conflict/.
  
-## Team Slide
-[]()
+## TEAM SLIDE
+![](https://raw.githubusercontent.com/Chinmayi98/merge-conflict/master/Capture.PNG)
+
+## VIDEO 
+[YOUTUBE](https://www.youtube.com/watch?v=AMzIPsp5dGg)
