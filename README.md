@@ -8,7 +8,12 @@ https://chinmayi98.github.io/merge-conflict/.
 
 ## CITED PRESENTATION
 
-[PPT](MergeConflicts.pdf)
+- [PPT](MergeConflicts.pdf)
 
 ## VIDEO 
-[YOUTUBE](https://www.youtube.com/watch?v=AMzIPsp5dGg)
+- [YOUTUBE](https://www.youtube.com/watch?v=AMzIPsp5dGg)
+
+## REFERENCES
+- [https://stackoverflow.com](https://stackoverflow.com)
+
+- [https://tortoisegit.org](https://tortoisegit.org)
